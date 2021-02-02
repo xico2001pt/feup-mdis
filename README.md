@@ -11,7 +11,7 @@ Este repositório contém:
 - Exercícios
 - Bibliografia
 
-## Grades
+## Classificações
 
 Final = (Teste 1 + Teste 2 + Teste 3 + Teste 4 - 0.8 * MINÍMO(Teste 1, Teste 2, Teste 3, Teste 4)) / 3.2
 
